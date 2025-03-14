@@ -13,7 +13,7 @@
 - 📊 **Real-Time Traffic Monitoring & Logging**  
 
 📸 **OPNSense Dashboard Preview:**  
-![OPNSense Firewall](https://opnsense.org/wp-content/uploads/2020/01/screenshot-dashboard-20.1.png)  
+**[OPNSense Firewall](https://opnsense.org/download/)**  
 
 ---
 
