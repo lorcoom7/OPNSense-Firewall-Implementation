@@ -13,7 +13,7 @@
 - 📊 **Real-Time Traffic Monitoring & Logging**  
 
 📸 **OPNSense Dashboard Preview:**  
-- 📜 **[OPNSense Firewall](https://opnsense.org/about/features/feature_dashboard/?utm_source=chatgpt.com)**  
+- 📜 **[OPNSense Firewall](https://opnsense.org/download/)**  
 
 ---
 
